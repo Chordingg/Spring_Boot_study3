@@ -75,11 +75,13 @@
 
 ## 🔧 Development Environment 🔧
 ```
-언어 : Java(jdk 11), JavaScript(3.22)
+통합개발환경(IDE) : IntelliJ
+JDK version : JDK 11
+Spring Bood version : 2.5.2
+Build Tool : Maven
 서버 : Apache Tomcat 9.0 (3.9.18)
-프레임워크 : Spring(5.3.23)
 라이브러리 : Lombok
-DBMS : H2 Database
+DBMS : MySQL
 ETC : Git
 ```
 
@@ -87,7 +89,7 @@ ETC : Git
 
 ## 🔔 Prerequisite 🔔
 ```
-H2 Database 연결 
+MySQL 3306 연결 
 Tomcat 8181 포트 연결
 ```
 
@@ -101,7 +103,7 @@ Tomcat 8181 포트 연결
 
 ## 📓 Notion 📓
 
-#### [😆 Chordingg 👉 Notion](https://www.notion.so/3-98e15f21cfa544a58914e0b743ef39c3)
+#### [😆 Chordingg 👉 Notion](https://www.notion.so/with-JPA-65708e6724a344ada405ae3375ac5a3f)
 
 <hr>
 
@@ -112,16 +114,19 @@ Tomcat 8181 포트 연결
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">     
     
 <br>
-
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+<br>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
 
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-
-<br>
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 </div>
